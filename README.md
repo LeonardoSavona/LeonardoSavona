@@ -13,28 +13,9 @@ I'm a backend developer with a strong foundation in **Java**, but I'm not limite
 
 ---
 
-### 🧠 What Drives Me
-
-Curiosity. I'm always eager to expand my knowledge, understand how things work under the hood, and stay up-to-date with the latest backend technologies and best practices.
-
-> _“Stay curious, keep coding.”_
-
----
-
-### 📂 Featured Projects
-
-Here are a few projects I'm proud of (check the pinned repos for more!):
-
-- 🛠 **[MyBudget Hub](https://github.com/leonardosavona/mybudget-hub)** – A personal finance management app with a Flask backend and a lightweight frontend.
-- 📡 **EventStream Processor** – A prototype real-time system using Kafka and Spring Boot to process incoming events with dynamic rules.
-- 🔍 **Elastic Log Explorer** – A tool for querying and visualizing log data from Elasticsearch clusters.
-
----
-
 ### 🚀 Tech Stack & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Testcontainers](https://img.shields.io/badge/Testcontainers-54BA4F?style=for-the-badge&logo=docker&logoColor=white)
